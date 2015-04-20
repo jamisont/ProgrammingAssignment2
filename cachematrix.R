@@ -1,6 +1,10 @@
 ## These functions create a special object that stores a square matrix
 ## and caches its inverse
 
+## These functions were created by Tatiana Jamison for the "R Programming"
+## course on Coursera.org by Roger Peng, PhD, Jeff Leek, PhD, Brian Caffo, PhD
+## (April, 2015). Code is modeled after the assignment sample code.
+
 ## The following function creates a "matrix" (list) that contains functions to
 ## 1) set the value of the matrix;
 ## 2) get the value of the matrix
